@@ -31,6 +31,10 @@ git clone https://github.com/loregunner/water-bucket-challenge.git
 yarn install  o npm install
 ```
 
+```bash
+yarn run dev  o npm run dev
+```
+
 ## 1. Preámbulo
 
 ​
